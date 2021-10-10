@@ -9,11 +9,11 @@
     "majsoul_plus": "^2.0.0"
   },
   "replace": [
-    "en/extendRes/charactor/erzhigong/bighead.png",
-    "en/extendRes/charactor/erzhigong/full.png",
-    "en/extendRes/charactor/erzhigong/half.png",
-    "en/extendRes/charactor/erzhigong/smallhead.png",
-    "en/extendRes/charactor/erzhigong/waitingroom.png",
+    "extendRes/charactor/erzhigong/bighead.png",
+    "extendRes/charactor/erzhigong/full.png",
+    "extendRes/charactor/erzhigong/half.png",
+    "extendRes/charactor/erzhigong/smallhead.png",
+    "extendRes/charactor/erzhigong/waitingroom.png",
     
     "bitmapfont/en/en_hanyi.fnt",
     "bitmapfont/en/en_haolong.fnt",
